@@ -6,6 +6,6 @@ class MainClass {
         int a = 4, b = 3;
     int c = a + b; ;
         Console.WriteLine(c);
-    
+        Console.ReadKey();
   }
 }
